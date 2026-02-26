@@ -1,0 +1,49 @@
+{
+    "id": "jobmint",
+    "title": "JobMint",
+    "overview": "A unified workspace for your entire job search. Track applications, build resumes & cover letters, search for jobs, and manage your career pipeline — all in one place.",
+    "features": [
+        "Application Tracking — Full pipeline management with status tracking, salary, notes, and saved job descriptions",
+        "Resume & Cover Letter Builder — 14+ professional templates with pixel-perfect PDF output, Undo/Redo history, and a built-in Writing Assistant (spell check, grammar & style suggestions), powered by CVStack",
+        "Job Search — Aggregated search across Indeed, LinkedIn, and more with save-to-tracker",
+        "Universal Theming — 10+ themes with seamless sync across the entire platform",
+        "Desktop App — Tauri-powered native builds for Windows (.exe / .msi) and macOS (.app / .dmg)"
+    ],
+    "status": "live",
+    "category": "web",
+    "tags": [
+        "nextjs",
+        "react",
+        "tauri",
+        "rust",
+        "job-search",
+        "career-tools",
+        "submodules",
+        "automation"
+    ],
+    "tech_stack": [
+        "Next.js 16",
+        "Vite",
+        "React",
+        "Tauri (Rust)",
+        "Tailwind CSS",
+        "Git Submodules",
+        "GitHub Actions"
+    ],
+    "live_url": "https://jobmint.vercel.app",
+    "github_url": "https://github.com/ayehya2/jobmint",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "Ongoing",
+    "challenges": "Managing a complex architecture with a Next.js orchestrator and a Vite/React submodule (CVStack) while ensuring seamless synchronization across repositories via GitHub Actions and repository_dispatch triggers. Implementing a native desktop experience using Tauri while maintaining a unified theme system across all platforms.",
+    "outcome": "A comprehensive career hub that centralizes all job search activities, from tracking to resume building, available as both a web application and native desktop software.",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": false
+        }
+    }
+}
