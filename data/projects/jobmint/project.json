@@ -9,6 +9,8 @@
         "Universal Theming — 10+ themes with seamless sync across the entire platform",
         "Desktop App — Tauri-powered native builds for Windows (.exe / .msi) and macOS (.app / .dmg)"
     ],
+    "order": 1,
+    "featured": true,
     "status": "live",
     "category": "web",
     "tags": [
