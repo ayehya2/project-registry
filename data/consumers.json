@@ -1,0 +1,14 @@
+[
+    {
+        "id": "portfolio-personal",
+        "name": "Personal Portfolio",
+        "api_key": "",
+        "active": true
+    },
+    {
+        "id": "portfolio-brand",
+        "name": "Brand Site",
+        "api_key": "",
+        "active": true
+    }
+]
