@@ -1,0 +1,46 @@
+{
+    "id": "arabic-quran-site",
+    "title": "Arabic & Quran Site",
+    "overview": "Educational platform for Arabic language learning and Quranic studies with interactive features and multilingual support.",
+    "features": [
+        "Interactive Arabic lessons with pronunciation",
+        "Quranic text with multiple translations",
+        "Audio recitations from various reciters",
+        "Word-by-word translation and grammar analysis",
+        "Progress tracking and learning goals",
+        "Flashcard system for vocabulary",
+        "Search functionality across translations",
+        "Multilingual support"
+    ],
+    "status": "planned",
+    "category": "education",
+    "tags": [
+        "education",
+        "arabic",
+        "nlp",
+        "language-learning"
+    ],
+    "tech_stack": [
+        "React",
+        "Node.js",
+        "Arabic NLP",
+        "MongoDB",
+        "Web Speech API"
+    ],
+    "live_url": "",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "",
+    "challenges": "A comprehensive educational platform designed to help users learn Arabic language and study the Quran. Features include interactive lessons, pronunciation guides, translation tools, and progress tracking for learners of all levels.",
+    "outcome": "",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

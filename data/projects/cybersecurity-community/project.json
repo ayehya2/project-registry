@@ -1,0 +1,42 @@
+{
+    "id": "cybersecurity-community",
+    "title": "Cybersecurity Community",
+    "overview": "Discord server with 1200+ members focused on cybersecurity education, CTF challenges, and ethical hacking resources.",
+    "features": [
+        "1200+ active members",
+        "Regular CTF challenges and competitions",
+        "Educational resources and tutorials",
+        "Mentorship programs",
+        "Career guidance for cybersecurity professionals",
+        "Bug bounty discussions",
+        "Tool recommendations and reviews"
+    ],
+    "status": "maintained",
+    "category": "community",
+    "tags": [
+        "community",
+        "cybersecurity",
+        "education",
+        "ethical-hacking"
+    ],
+    "tech_stack": [
+        "Discord",
+        "Community Management"
+    ],
+    "live_url": "",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "Started January 2023 — ongoing",
+    "challenges": "Founded and managed a thriving Discord community of over 1,200 cybersecurity enthusiasts. The server provides educational resources, CTF challenges, mentorship, and a collaborative environment for learning ethical hacking and cybersecurity best practices.",
+    "outcome": "1200+ member community with active engagement in CTF competitions, mentorship, and career development.",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

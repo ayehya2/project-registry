@@ -1,0 +1,46 @@
+{
+    "id": "ghost-trace",
+    "title": "Ghost Trace",
+    "overview": "Privacy-focused digital footprint analyzer that helps users understand and minimize their online presence.",
+    "features": [
+        "Digital footprint scanning across multiple platforms",
+        "Privacy score calculation",
+        "Personalized privacy recommendations",
+        "Data broker detection",
+        "Social media privacy audit",
+        "Email breach detection",
+        "Automated opt-out requests",
+        "Regular monitoring and alerts"
+    ],
+    "status": "live",
+    "category": "security",
+    "tags": [
+        "privacy",
+        "security",
+        "web-scraping",
+        "cybersecurity"
+    ],
+    "tech_stack": [
+        "Python",
+        "Web Scraping",
+        "React",
+        "Node.js",
+        "API Integration"
+    ],
+    "live_url": "https://ghosttrace.onrender.com",
+    "github_url": "https://github.com/sankeer28/GhostTrace",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "collaborative",
+    "duration": "",
+    "challenges": "A comprehensive tool for analyzing and managing your digital footprint. Ghost Trace scans the internet for your personal information, provides privacy recommendations, and helps you minimize your online presence to protect your privacy.",
+    "outcome": "Live at ghosttrace.onrender.com — scans for personal information across the web and provides actionable privacy recommendations.",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "modular-signin",
+    "title": "Modular Signin",
+    "overview": "Flexible authentication module supporting multiple sign-in methods with OAuth, 2FA, and passwordless authentication.",
+    "features": [
+        "Multiple authentication methods",
+        "OAuth integration (Google, GitHub, Facebook)",
+        "Two-factor authentication (TOTP, SMS)",
+        "Passwordless authentication via email/SMS",
+        "Biometric authentication support",
+        "Session management with Redis",
+        "Rate limiting and security best practices",
+        "Easy integration with existing applications"
+    ],
+    "status": "planned",
+    "category": "security",
+    "tags": [
+        "authentication",
+        "security",
+        "oauth",
+        "node-js",
+        "module"
+    ],
+    "tech_stack": [
+        "Node.js",
+        "Express",
+        "JWT",
+        "OAuth 2.0",
+        "Redis",
+        "MongoDB"
+    ],
+    "live_url": "",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "",
+    "challenges": "A comprehensive, modular authentication system that can be easily integrated into any web application. Supports traditional email/password, social OAuth providers, two-factor authentication, passwordless login, and biometric authentication.",
+    "outcome": "",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

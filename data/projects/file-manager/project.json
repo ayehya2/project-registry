@@ -1,0 +1,46 @@
+{
+    "id": "file-manager",
+    "title": "File Manager System",
+    "overview": "Advanced file management system with cloud integration, security features, and collaborative workspace capabilities.",
+    "features": [
+        "Multi-cloud storage integration",
+        "End-to-end encryption for sensitive files",
+        "Real-time collaborative editing",
+        "Advanced search and filtering",
+        "File versioning and history",
+        "Sharing with granular permissions",
+        "Automated backup and sync",
+        "Preview for multiple file types"
+    ],
+    "status": "planned",
+    "category": "utility",
+    "tags": [
+        "productivity",
+        "cloud-storage",
+        "collaboration",
+        "security"
+    ],
+    "tech_stack": [
+        "Node.js",
+        "React",
+        "Cloud Storage APIs",
+        "WebSockets",
+        "Encryption"
+    ],
+    "live_url": "",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "",
+    "challenges": "A sophisticated file management system with cloud storage integration, end-to-end encryption, real-time collaboration features, and advanced organization tools. Designed for teams and individuals who need secure, efficient file management.",
+    "outcome": "",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

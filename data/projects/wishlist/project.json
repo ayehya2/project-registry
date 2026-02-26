@@ -1,0 +1,47 @@
+{
+    "id": "wishlist",
+    "title": "Wishlist",
+    "overview": "Smart wishlist manager with price tracking, sharing features, and gift coordination for special occasions.",
+    "features": [
+        "Multi-retailer product tracking",
+        "Price monitoring and alerts",
+        "List sharing with friends/family",
+        "Gift coordination (mark as purchased)",
+        "Browser extension for quick adding",
+        "Priority and category organization",
+        "Budget tracking",
+        "Occasion-based list creation",
+        "Mobile app support"
+    ],
+    "status": "planned",
+    "category": "utility",
+    "tags": [
+        "utility",
+        "e-commerce",
+        "price-tracking",
+        "social"
+    ],
+    "tech_stack": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Web Scraping",
+        "API Integration"
+    ],
+    "live_url": "",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "",
+    "challenges": "A comprehensive wishlist management application that helps users track desired items across multiple retailers, monitor price changes, share lists with friends and family, and coordinate gift-giving for special occasions.",
+    "outcome": "",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

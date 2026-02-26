@@ -1,0 +1,48 @@
+{
+    "id": "wiki-resources",
+    "title": "WikiResources",
+    "overview": "Collaborative knowledge base and resource sharing platform for developers and learners with versioning and search.",
+    "features": [
+        "Collaborative wiki editing",
+        "Version control for all content",
+        "Advanced search with Elasticsearch",
+        "Code syntax highlighting",
+        "Category and tag organization",
+        "User contributions and reputation system",
+        "Export to PDF/Markdown",
+        "API documentation support",
+        "Mobile-responsive design"
+    ],
+    "status": "planned",
+    "category": "education",
+    "tags": [
+        "education",
+        "collaboration",
+        "wiki",
+        "knowledge-base",
+        "developers"
+    ],
+    "tech_stack": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Elasticsearch",
+        "Markdown"
+    ],
+    "live_url": "",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "",
+    "challenges": "A comprehensive wiki-style platform for developers and learners to share knowledge, tutorials, code snippets, and resources. Features collaborative editing, version control, advanced search, and categorization for easy discovery of information.",
+    "outcome": "",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

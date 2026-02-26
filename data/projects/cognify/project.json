@@ -1,0 +1,63 @@
+{
+    "id": "cognify",
+    "title": "Cognify — AI Study Platform",
+    "overview": "Comprehensive AI-powered educational platform combining intelligent note-taking, quiz generation, personalized learning paths, and cognitive performance tracking.",
+    "features": [
+        "Rich text note editor with Markdown support",
+        "AI-powered quiz generation from notes",
+        "Personalized learning path generation",
+        "Adaptive quizzes with difficulty adjustment",
+        "Spaced repetition optimization system",
+        "Learning pattern analysis and insights",
+        "Focus and productivity tracking",
+        "Study session recommendations",
+        "Knowledge gap identification",
+        "Progress visualization and analytics",
+        "Collaborative note sharing and study groups",
+        "Pomodoro timer integration",
+        "Flashcard creation with AI",
+        "Export to various formats (PDF, Word, etc.)",
+        "Mobile-responsive design",
+        "Real-time collaboration features",
+        "Cognitive load monitoring",
+        "Study habit optimization"
+    ],
+    "status": "in-progress",
+    "category": "ai-ml",
+    "tags": [
+        "ai",
+        "education",
+        "machine-learning",
+        "productivity",
+        "cognitive-science",
+        "collaboration",
+        "note-taking",
+        "learning-analytics"
+    ],
+    "tech_stack": [
+        "React",
+        "Node.js",
+        "Python",
+        "TensorFlow",
+        "NLP",
+        "MongoDB",
+        "Markdown",
+        "AI/ML APIs"
+    ],
+    "live_url": "https://cognify-nine.vercel.app",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "Ongoing",
+    "challenges": "An all-in-one intelligent learning companion that revolutionizes education through AI. Combines advanced note-taking with AI-powered quiz generation, creates personalized study plans, analyzes learning patterns, and optimizes study sessions based on cognitive science principles.",
+    "outcome": "",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

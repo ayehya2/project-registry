@@ -1,0 +1,49 @@
+{
+    "id": "cipher-vault",
+    "title": "CipherVault",
+    "overview": "Secure password manager with end-to-end encryption, biometric authentication, and cross-platform synchronization.",
+    "features": [
+        "End-to-end encryption (AES-256)",
+        "Password generator with customization",
+        "Biometric authentication",
+        "Breach monitoring and alerts",
+        "Secure password sharing",
+        "Auto-fill for browsers",
+        "Cross-platform sync (encrypted)",
+        "Two-factor authentication",
+        "Secure notes storage",
+        "Password strength analysis"
+    ],
+    "status": "planned",
+    "category": "security",
+    "tags": [
+        "security",
+        "encryption",
+        "password-manager",
+        "privacy",
+        "cybersecurity"
+    ],
+    "tech_stack": [
+        "Electron",
+        "React",
+        "Node.js",
+        "Encryption (AES-256)",
+        "SQLCipher"
+    ],
+    "live_url": "",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "",
+    "challenges": "A highly secure password manager that uses military-grade encryption to protect your credentials. Features include password generation, breach monitoring, secure sharing, biometric authentication, and seamless sync across all your devices.",
+    "outcome": "",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

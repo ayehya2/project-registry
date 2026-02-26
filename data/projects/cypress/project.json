@@ -1,0 +1,45 @@
+{
+    "id": "cypress",
+    "title": "Cypress — City Problem Reporting",
+    "overview": "Team project for reporting and tracking city infrastructure problems with collaborative features and admin dashboard.",
+    "features": [
+        "User-friendly problem reporting interface",
+        "Image upload for problem documentation",
+        "Admin dashboard for city officials",
+        "Status tracking and updates",
+        "Location-based problem mapping",
+        "User authentication and authorization",
+        "Notification system for status updates"
+    ],
+    "status": "completed",
+    "category": "full-stack",
+    "tags": [
+        "web-development",
+        "php",
+        "mysql",
+        "civic-tech"
+    ],
+    "tech_stack": [
+        "JavaScript",
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS"
+    ],
+    "live_url": "",
+    "github_url": "https://github.com/ayehya2/cypress",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "collaborative",
+    "duration": "September 2024 — December 2024",
+    "challenges": "A comprehensive city problem reporting system designed to help citizens report infrastructure issues and track their resolution. Features include collaborative reporting, admin dashboard for city officials, and real-time status updates.",
+    "outcome": "",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

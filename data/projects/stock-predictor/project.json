@@ -1,0 +1,49 @@
+{
+    "id": "stock-predictor",
+    "title": "Stock Predictor",
+    "overview": "Machine learning-powered stock price prediction system with technical analysis and sentiment analysis integration.",
+    "features": [
+        "ML-based price prediction models",
+        "Technical indicator analysis",
+        "News sentiment analysis",
+        "Social media sentiment tracking",
+        "Portfolio tracking and optimization",
+        "Risk assessment tools",
+        "Real-time stock data integration",
+        "Historical data visualization",
+        "Backtesting capabilities"
+    ],
+    "status": "live",
+    "category": "ai-ml",
+    "tags": [
+        "ai",
+        "machine-learning",
+        "finance",
+        "data-science",
+        "prediction"
+    ],
+    "tech_stack": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Pandas",
+        "React",
+        "Financial APIs"
+    ],
+    "live_url": "https://stock-predictor-v2.vercel.app/",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "",
+    "challenges": "An advanced stock market prediction system that uses machine learning algorithms, technical indicators, and sentiment analysis from news and social media to forecast stock price movements. Includes portfolio tracking and risk analysis features.",
+    "outcome": "Live at stock-predictor-v2.vercel.app with ML-based predictions, technical indicators, and sentiment analysis.",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

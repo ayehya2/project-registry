@@ -1,0 +1,48 @@
+{
+    "id": "ocr",
+    "title": "OCR — Optical Character Recognition",
+    "overview": "Advanced OCR system for extracting text from images and documents with multi-language support and high accuracy.",
+    "features": [
+        "Multi-language text recognition",
+        "Handwriting recognition",
+        "Batch document processing",
+        "PDF text extraction",
+        "Image preprocessing and enhancement",
+        "Export to multiple formats (TXT, DOCX, PDF)",
+        "API for integration",
+        "High accuracy with ML models"
+    ],
+    "status": "planned",
+    "category": "ai-ml",
+    "tags": [
+        "ai",
+        "machine-learning",
+        "ocr",
+        "computer-vision",
+        "nlp"
+    ],
+    "tech_stack": [
+        "Python",
+        "TensorFlow",
+        "OpenCV",
+        "Tesseract",
+        "Flask",
+        "React"
+    ],
+    "live_url": "",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "",
+    "challenges": "A powerful Optical Character Recognition system that extracts text from images, scanned documents, and PDFs. Supports multiple languages, handwriting recognition, and batch processing with high accuracy using machine learning models.",
+    "outcome": "",
+    "last_updated": "2026-02-26",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}
