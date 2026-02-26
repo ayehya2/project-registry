@@ -10,7 +10,7 @@ const projectsRouter = require('./routes/projects');
 const metaRouter = require('./routes/meta');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 // ─── Core middleware ──────────────────────────────────────────────────────────
 
