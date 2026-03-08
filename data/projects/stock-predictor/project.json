@@ -13,7 +13,7 @@
         "Historical data visualization",
         "Backtesting capabilities"
     ],
-    "status": "live",
+    "status": "done",
     "category": "ai-ml",
     "tags": [
         "ai",
@@ -23,15 +23,15 @@
         "prediction"
     ],
     "tech_stack": [
+        "Next.js",
+        "TensorFlow.js",
+        "LSTM",
+        "ARIMA",
         "Python",
-        "TensorFlow",
-        "PyTorch",
-        "Pandas",
-        "React",
         "Financial APIs"
     ],
     "live_url": "https://stock-predictor-v2.vercel.app/",
-    "github_url": "",
+    "github_url": "https://github.com/sankeer28/stock-predictor",
     "demo_video_url": "",
     "gallery": [],
     "client": "personal",

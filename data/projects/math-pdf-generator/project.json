@@ -1,0 +1,45 @@
+{
+    "id": "math-pdf-generator",
+    "title": "Math PDF Generator",
+    "overview": "A web-based random math worksheet generator that creates printable PDF bundles with configurable problem types and difficulty. Generates question and answer pages packaged into a downloadable zip file.",
+    "features": [
+        "Generate any number of PDFs, each packed with random math problems and matching answer pages",
+        "Choose from addition, subtraction, multiplication, division, BEDMAS, exponents, word problems, brain teasers, and mixed equations",
+        "Custom number of question pages per PDF — up to 50 pages",
+        "PDFs bundled into a zip file for one-click download",
+        "Random file names for each generated PDF",
+        "Works on both desktop and mobile browsers"
+    ],
+    "status": "done",
+    "category": "web",
+    "tags": [
+        "tools",
+        "education",
+        "pdf",
+        "javascript",
+        "math"
+    ],
+    "tech_stack": [
+        "HTML",
+        "JavaScript",
+        "jsPDF",
+        "jsZip",
+        "FileSaver.js"
+    ],
+    "live_url": "https://sankeer28.github.io/Math-PDF-Generator-Web/",
+    "github_url": "https://github.com/sankeer28/Math-PDF-Generator-Web",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "",
+    "challenges": "Generating well-formed, varied math problems across multiple types while keeping everything client-side with no backend dependencies. Bundling multiple PDFs into a zip in the browser using jsZip and FileSaver.js.",
+    "outcome": "A fully client-side math worksheet generator live on GitHub Pages, capable of producing and downloading multi-PDF zip bundles in seconds.",
+    "last_updated": "2026-03-07",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

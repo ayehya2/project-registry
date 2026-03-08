@@ -50,7 +50,7 @@
         "default": true,
         "consumers": {
             "portfolio-personal": true,
-            "portfolio-brand": false
+            "portfolio-brand": true
         }
     }
 }
