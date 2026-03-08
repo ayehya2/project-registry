@@ -12,7 +12,7 @@
         "Modern interface — tab-based workflow, dark/light mode, responsive 50/50 split layout, real-time PDF preview",
         "CI/CD — GitHub Actions auto-builds and packages a signed Windows .exe on every push to main"
     ],
-    "status": "done",
+    "status": "completed",
     "category": "web",
     "tags": [
         "healthcare",
