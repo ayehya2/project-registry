@@ -1,0 +1,57 @@
+{
+    "id": "medscheck",
+    "title": "MedsCheck Forms",
+    "overview": "A comprehensive web and desktop application for Ontario pharmacists to complete all 6 government-mandated MedsCheck forms with AI-powered clinical note extraction, Supabase backend, and instant PDF generation.",
+    "features": [
+        "AI-powered data extraction — upload images (OCR) or paste clinical notes, auto-populates patient demographics, medications, allergies, and conditions via Google Gemini API",
+        "Complete coverage of all 6 MedsCheck forms — Healthcare Provider Notification, Patient Acknowledgement, Personal Medication Record, Pharmacist Worksheet, Patient Take-Home Summary, Diabetes Education Checklist",
+        "Supabase backend — full PostgreSQL persistence, user authentication, patient management, multi-pharmacy support, auto-save",
+        "Tauri-powered desktop app — lightweight Windows .exe (~8MB) with dual-mode database (cloud Supabase or local SQLite), offline capability, and optional cloud sync",
+        "Professional PDF generation — live preview, download individual or all 6 forms, digital signature support (draw or upload)",
+        "Smart logic — conditional Diabetes Education form auto-hides for non-diabetic patients, bi-directional profile sync, intelligent data persistence",
+        "Modern interface — tab-based workflow, dark/light mode, responsive 50/50 split layout, real-time PDF preview",
+        "CI/CD — GitHub Actions auto-builds and packages a signed Windows .exe on every push to main"
+    ],
+    "status": "done",
+    "category": "web",
+    "tags": [
+        "healthcare",
+        "pharmacy",
+        "ai",
+        "pdf",
+        "desktop-app",
+        "react",
+        "typescript",
+        "tauri",
+        "supabase"
+    ],
+    "tech_stack": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "Radix UI",
+        "Supabase",
+        "Tauri v2",
+        "Rust",
+        "SQLite",
+        "Google Gemini API",
+        "@react-pdf/renderer"
+    ],
+    "live_url": "",
+    "github_url": "https://github.com/ayehya2/Ont-MedCheck",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "collaborative",
+    "duration": "",
+    "challenges": "Building a dual-mode database adapter that seamlessly switches between cloud Supabase and local SQLite, translating PostgreSQL schemas with RLS policies into a secure offline-first SQLite architecture, and implementing AI-powered clinical note extraction that reliably parses unstructured pharmacist notes into structured form fields.",
+    "outcome": "A production-grade tool used by Ontario pharmacists with full form coverage, AI extraction, professional PDF output, and a standalone desktop application with offline capability.",
+    "last_updated": "2026-03-07",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}
