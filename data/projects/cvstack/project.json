@@ -40,9 +40,12 @@
     "live_url": "https://cvstack.vercel.app",
     "github_url": "https://github.com/ayehya2/cvstack",
     "demo_video_url": "",
-    "gallery": [],
+    "gallery": [
+        "resume-editor.png",
+        "cover-letter-editor.png"
+    ],
     "client": "collaborative",
-    "duration": "Ongoing",
+    "duration": "Completed",
     "challenges": "Achieving pixel-perfect PDF output that matches the live preview across both a React renderer and a pdfLaTeX pipeline. Embedding the builder seamlessly inside a parent app (JobMint) via iframe with theme sync and document handoff via postMessage.",
     "outcome": "A production-grade tool live at cvstack.vercel.app with 14+ templates, full formatting controls, and a writing assistant. Used as a core module inside JobMint for job application resume management.",
     "last_updated": "2026-02-26",

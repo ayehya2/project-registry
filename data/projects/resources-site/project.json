@@ -1,0 +1,47 @@
+{
+    "id": "resources-site",
+    "title": "Resources Site",
+    "overview": "A unified platform for developer resources and shared knowledge. Merged from wiki-resources and resources-site to provide a single, comprehensive hub.",
+    "features": [
+        "Collaborative wiki editing",
+        "Version control for all content",
+        "Advanced search",
+        "Code syntax highlighting",
+        "Category and tag organization",
+        "Mobile-responsive design",
+        "Resource sharing and curation"
+    ],
+    "status": "live",
+    "category": "education",
+    "tags": [
+        "education",
+        "collaboration",
+        "wiki",
+        "knowledge-base",
+        "developers",
+        "resources"
+    ],
+    "tech_stack": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Next.js",
+        "Vercel"
+    ],
+    "live_url": "https://resouceshub.vercel.app/",
+    "github_url": "https://github.com/ayehya2/resouces-site",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "2026",
+    "challenges": "Merging two separate platforms into one cohesive resource repository while maintaining consistent data structure and user experience.",
+    "outcome": "A single, professional platform for all shared resources and documentation.",
+    "last_updated": "2026-03-16",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

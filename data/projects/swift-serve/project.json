@@ -1,0 +1,54 @@
+{
+    "id": "swift-serve",
+    "title": "SwiftServe",
+    "overview": "An integrated Online Service Platform designed to provide a seamless experience for shopping, delivery, and secure payments.",
+    "features": [
+        "Product browsing and price comparison",
+        "Shopping cart functionality",
+        "Optimal delivery route computation",
+        "Real-time tracking from warehouse to destination",
+        "Secure payment mechanism with invoice review",
+        "Multi-page responsive UI"
+    ],
+    "status": "completed",
+    "category": "e-commerce",
+    "tags": [
+        "web-application",
+        "shopping",
+        "delivery-tracking",
+        "secure-payment",
+        "PHP",
+        "MySQL"
+    ],
+    "tech_stack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "jQuery",
+        "PHP",
+        "MySQL"
+    ],
+    "live_url": "",
+    "github_url": "",
+    "demo_video_url": "",
+    "gallery": [
+        "products-page.png",
+        "contact-page.png",
+        "checkout-page.png",
+        "payment-page.png",
+        "order-confirmation.png",
+        "reviews-page.png"
+    ],
+    "client": "personal",
+    "duration": "March 2026",
+    "challenges": "Integrating three major services (shopping, delivery, and payment) into a single cohesive platform while ensuring a high-quality user experience and secure transactions.",
+    "outcome": "A fully functional web application that adheres to the MVC design pattern, ensuring maintainability and a clean separation of concerns.",
+    "last_updated": "2026-03-16",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

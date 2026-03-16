@@ -1,6 +1,6 @@
 {
-    "id": "modular-signin",
-    "title": "Modular Signin",
+    "id": "auth-core",
+    "title": "AuthCore",
     "overview": "Flexible authentication module supporting multiple sign-in methods with OAuth, 2FA, and passwordless authentication.",
     "features": [
         "Multiple authentication methods",
@@ -12,7 +12,7 @@
         "Rate limiting and security best practices",
         "Easy integration with existing applications"
     ],
-    "status": "planned",
+    "status": "in-progress",
     "category": "security",
     "tags": [
         "authentication",
@@ -30,19 +30,19 @@
         "MongoDB"
     ],
     "live_url": "",
-    "github_url": "",
+    "github_url": "https://github.com/ayehya2/AuthCore",
     "demo_video_url": "",
     "gallery": [],
     "client": "personal",
-    "duration": "",
-    "challenges": "A comprehensive, modular authentication system that can be easily integrated into any web application. Supports traditional email/password, social OAuth providers, two-factor authentication, passwordless login, and biometric authentication.",
-    "outcome": "",
-    "last_updated": "2026-02-26",
+    "duration": "2026",
+    "challenges": "Rebranded and streamlined authentication system for modern web applications.",
+    "outcome": "A robust, standalone authentication core module.",
+    "last_updated": "2026-03-16",
     "visibility": {
         "default": true,
         "consumers": {
             "portfolio-personal": true,
-            "portfolio-brand": false
+            "portfolio-brand": true
         }
     }
 }
