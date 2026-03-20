@@ -1,0 +1,51 @@
+{
+    "id": "growthmint",
+    "title": "GrowthMint",
+    "overview": "An AI-powered career growth platform that visualizes skill gaps, maps personalized roadmaps to target roles, and provides market intelligence for professional advancement.",
+    "features": [
+        "Growth profile — define current role, skills, experience level, and career goals",
+        "Gap analysis — compare current skill set against 'North Star' target roles",
+        "Career roadmap — interactive visualization of steps to reach next career milestone",
+        "Role explorer — browse industry roles with required skills, salary ranges, and growth paths",
+        "Learning paths — curated resource recommendations (courses, certifications, tutorials)",
+        "Progress tracking — mark skills as completed, milestone system, progress visualization",
+        "Market intelligence — emerging skill trends and role demand data by industry and region",
+        "Company insights — target company tech stacks, culture signals, and hiring patterns",
+        "Salary benchmarking — compensation data correlated with skill sets and experience levels",
+        "Career pivot analysis — map transferable skills when switching industries or roles"
+    ],
+    "status": "in-progress",
+    "category": "web",
+    "tags": [
+        "ai",
+        "career-growth",
+        "career-tools",
+        "react",
+        "typescript",
+        "roadmap",
+        "skill-analysis"
+    ],
+    "tech_stack": [
+        "React 19",
+        "TypeScript",
+        "Vite 6",
+        "Tailwind CSS v4",
+        "Zustand"
+    ],
+    "live_url": "https://growthmint.vercel.app",
+    "github_url": "https://github.com/ayehya2/growthmint",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "Ongoing",
+    "challenges": "Building an AI engine that accurately maps skill gaps across diverse industries and generates actionable career roadmaps. Aggregating market intelligence data from multiple sources to provide reliable salary benchmarking and trend analysis.",
+    "outcome": "A career growth platform that helps professionals visualize their path to target roles with personalized roadmaps, available standalone and within the JobMint ecosystem.",
+    "last_updated": "2026-03-19",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

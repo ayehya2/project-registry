@@ -1,0 +1,51 @@
+{
+    "id": "portfoliomint",
+    "title": "PortfolioMint",
+    "overview": "A professional portfolio generator that transforms CV and profile data into stunning, shareable personal websites with multiple themes, live preview, static export, and custom domain support.",
+    "features": [
+        "Instant generation — auto-populates portfolio sections using CVStack resume data",
+        "10 themes — Professional, Minimal, Developer, Creative, Executive, Academic, Startup, Elegant, Bold, Dark",
+        "100 template variations — each theme has multiple layout options",
+        "Live preview — real-time preview within the builder or JobMint dashboard",
+        "Section management — Hero, About, Experience, Projects, Skills, Education, Contact sections",
+        "Static export — clean HTML/CSS/JS bundle, no framework lock-in, host anywhere",
+        "Shareable links — hosted URL for recruiters via URL-encoded state",
+        "Responsive design — every template is mobile-first and responsive",
+        "Color customization — full color palette control per theme",
+        "JobMint integration — auto-syncs with latest CVStack resume data via postMessage"
+    ],
+    "status": "in-progress",
+    "category": "web",
+    "tags": [
+        "portfolio",
+        "website-builder",
+        "career-tools",
+        "react",
+        "typescript",
+        "themes",
+        "static-export"
+    ],
+    "tech_stack": [
+        "React 19",
+        "TypeScript",
+        "Vite 6",
+        "Tailwind CSS v4",
+        "Zustand"
+    ],
+    "live_url": "https://portfoliomint.vercel.app",
+    "github_url": "https://github.com/ayehya2/portfoliomint",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "Ongoing",
+    "challenges": "Designing a theme engine that supports 10 distinct visual identities with 100 template variations while maintaining responsive design across all breakpoints. Generating clean, framework-free HTML/CSS/JS exports that look identical to the live preview.",
+    "outcome": "A portfolio generator that turns resume data into a professional personal website in minutes, available standalone and as a module within the JobMint ecosystem.",
+    "last_updated": "2026-03-19",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": "interviewmint",
+    "title": "InterviewMint",
+    "overview": "A high-fidelity AI interview simulator that provides realistic, low-stakes practice environments with role-specific technical and behavioral questions, real-time feedback, voice input, and detailed session reports.",
+    "features": [
+        "7 interview modes — Behavioral, Technical, Case Study, System Design, Role-Specific, Mixed, and Rapid Fire",
+        "5 difficulty levels — Intern through Director, adjusting question complexity and scoring expectations",
+        "Text & voice input — type answers or speak naturally with real-time transcription via Whisper API",
+        "AI-powered questions — JD-specific questions tailored to target company and role via Claude/GPT-4",
+        "Follow-up engine — dynamic follow-up questions based on answer quality and depth",
+        "10 interviewer personas — each with distinct personality, voice, and questioning style via ElevenLabs",
+        "Monaco coding environment — full-featured code editor with Judge0 execution and test cases",
+        "Session reports — per-question breakdown with content scores, delivery metrics, and PDF download",
+        "Progress tracking — session history, score trends, and milestone badges",
+        "JobMint integration — receives application context via postMessage, syncs results back"
+    ],
+    "status": "in-progress",
+    "category": "web",
+    "tags": [
+        "ai",
+        "interview",
+        "career-tools",
+        "react",
+        "typescript",
+        "whisper",
+        "elevenlabs",
+        "monaco"
+    ],
+    "tech_stack": [
+        "React 19",
+        "TypeScript",
+        "Vite 6",
+        "Tailwind CSS v4",
+        "Zustand",
+        "OpenAI Whisper API",
+        "ElevenLabs API",
+        "D-ID API",
+        "Judge0 API",
+        "Claude / GPT-4 / Gemini"
+    ],
+    "live_url": "https://interviewmint.vercel.app",
+    "github_url": "https://github.com/ayehya2/interviewmint",
+    "demo_video_url": "",
+    "gallery": [],
+    "client": "personal",
+    "duration": "Ongoing",
+    "challenges": "Building a realistic interview simulation with real-time AI evaluation, voice transcription via Whisper, and dynamic follow-up question generation. Integrating D-ID lip-sync avatars with ElevenLabs voices across 10 distinct personas while maintaining low latency.",
+    "outcome": "An AI-powered interview practice tool that helps job seekers prepare with realistic simulations, available standalone and embedded within the JobMint ecosystem.",
+    "last_updated": "2026-03-19",
+    "visibility": {
+        "default": true,
+        "consumers": {
+            "portfolio-personal": true,
+            "portfolio-brand": true
+        }
+    }
+}
